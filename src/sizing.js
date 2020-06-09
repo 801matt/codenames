@@ -1,0 +1,9 @@
+export const internal800 = "50rem";
+export const internal128 = "8rem";
+export const internal32 = "2rem";
+export const internal16 = "1rem";
+export const internal14 = "0.875";
+export const internal12 = "0.75rem";
+export const internal10 = "0.8rem";
+export const internal2 = "0.125rem";
+export const internal1 = "0.0625rem";
