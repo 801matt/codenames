@@ -8,6 +8,7 @@ import {
   Beige,
   DarkBeige,
   White,
+  Grey,
   DarkGrey
 } from "../../../colors";
 
@@ -69,7 +70,7 @@ const InternalUseGameBoard = styled.section`
     color: ${Beige};
   }
   .spymaster.black {
-    background: ${DarkGrey};
+    background: ${Grey};
   }
   .player.red.inactive {
     background: ${DarkRed};

@@ -22,6 +22,9 @@ const InternalUseGameHeading = styled.section`
   }
   .game-heading__turn {
     text-align: center;
+    &::first-letter {
+      text-transform: uppercase;
+    }
   }
   .game-heading__end-turn {
     text-align: right;
