@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this project
+
+This is a codenames software project created by Matthew Jackson, mattjtech. Follow the instructions below to install this software on your computer and play codenames with your friends!
+
 ## Available Scripts
 
 In the project directory, you can run:
